@@ -1,3 +1,6 @@
+> **Warning** 
+> The kendo-react-graphql repo has moved here [https://github.com/telerik/kendo-react/tree/master/kendo-react-graphql](https://github.com/telerik/kendo-react/tree/master/examples/kendo-react-graphql)
+> 
 # Kendo UI for React Grid Integration with GraphQL.
 
 > This application shows an example of how one can use editable Kendo UI for React Grid with GraphQL queries.
